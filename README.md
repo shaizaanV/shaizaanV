@@ -12,7 +12,7 @@
 
 # Aspiring Engineer &amp; Roboticist  
 ## Robotics &amp; Engineering  
-I'm heavily involved in competitive VEX Robotics, with a primary focus on mechanical design and drivetrain development. I enjoy designing and building custom rear-wheel-drive drivetrains and continuously refining them through testing and iteration. One of my recent projects uses an 11W rear / 5.5W front wheel configuration.  
+I'm heavily involved in competitive VEX Robotics, with a primary focus on mechanical design and drivetrain development.
 Beyond the build process, I enjoy solving technical challenges through experimentation. Recently, I spent over a month at the practice field every morning developing and tuning six fully autonomous routines without relying on sensors, using trial, observation, and iterative programming to improve consistency.  
 I'm currently preparing my academic profile for engineering programs at MIT, Stanford, Carnegie Mellon, Georgia Tech, and the University of Georgia.  
 ## Software &amp; Technical Skills  
